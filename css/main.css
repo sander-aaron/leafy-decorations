@@ -3,7 +3,9 @@ html {
 }
 
 .masthead {
-
+  background-image: url("../images/leaf-bg.svg");
+  background-color: #588477;
+  color: #fff;
 }
 
 .logo {
@@ -16,6 +18,7 @@ html {
 
 .nav a {
   text-decoration: none;
+  color: #fff;
 }
 
 .nav a:hover {
@@ -23,11 +26,14 @@ html {
 }
 
 .banner {
-
+  padding-top: 3em;
+  background-image: url("../images/banner.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
 }
 
 .banner-content {
-
+  color: #fff;
 }
 
 @media only screen and (min-width: 60em) {
