@@ -36,10 +36,11 @@ html {
 }
 
 .banner {
-  padding-top: 3em;
-  background-image: url("../images/banner.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
+  padding-top: 20em;
+  background:
+    url("../images/two-leaves.svg") no-repeat left center / 64px auto,
+    url("../images/banner.jpg") no-repeat top / cover
+  ;
 }
 
 .banner-content {
