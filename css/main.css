@@ -4,6 +4,7 @@ html {
 
 .masthead {
   background-image: url("../images/leaf-bg.svg");
+  background-size: 64px;
   background-color: #588477;
   color: #fff;
   border-top: solid 3px #145b1d;
@@ -36,10 +37,10 @@ html {
 }
 
 .banner {
-  padding-top: 20em;
+  padding-top: 302px;
   background:
-    url("../images/two-leaves.svg") no-repeat left center / 64px auto,
-    url("../images/banner.jpg") no-repeat top / cover;
+    url("../images/two-leaves.svg") no-repeat left center / 80px auto,
+    url("../images/banner.jpg") no-repeat bottom / cover;
 }
 
 .banner-content {
