@@ -39,7 +39,7 @@ html {
 .banner {
   padding-top: 302px;
   background:
-    url("../images/two-leaves.svg") no-repeat left center / 80px auto,
+    url("../images/two-leaves.svg") no-repeat left 15px center / 80px auto,
     url("../images/banner.jpg") no-repeat bottom / cover;
 }
 
